@@ -4,4 +4,4 @@ git clone https://github.com/M-niki0/Last
 
 cd Last
 
-python ok_.py
+python ok1.py
